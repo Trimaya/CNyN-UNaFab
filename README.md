@@ -1,2 +1,2 @@
 # cnyn
-oa
+Lua scripts for parametric device mask design in CleWin5.
